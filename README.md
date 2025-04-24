@@ -1,6 +1,6 @@
-<div align="center">
+<!--<div align="center">
   <img src="https://github.com/BaharHasanova/BaharHasanova/blob/main/banner-github.jpeg?raw=true" alt="GitHub Banner" />
-</div>
+</div>-->
 
 # 💫 About Me:
  a software engineer focused on building clean, user-friendly interfaces
