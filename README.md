@@ -2,7 +2,7 @@
   <img src="https://github.com/BaharHasanova/BaharHasanova/blob/main/banner-github.jpeg?raw=true" alt="GitHub Banner" />
 </div>-->
 
-# 💫 About Me:
+# About Me:
  a software engineer focused on building clean, user-friendly interfaces
 
 # 💻 Tech Stack:
